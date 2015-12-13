@@ -5950,19 +5950,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.656854"
-     inkscape:cx="-43.278489"
-     inkscape:cy="17.027429"
+     inkscape:cx="-12.825499"
+     inkscape:cy="17.115817"
      inkscape:document-units="px"
-     inkscape:current-layer="g4561-5"
+     inkscape:current-layer="g4361-2-6-1"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -6070,14 +6070,11 @@
                            inkscape:label="Capa 1"
                            id="layer1-5-6"
                            transform="translate(-94.71429,7.57146)">
-                          <rect
+                          <path
                              style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-                             id="rect4227"
-                             width="16"
-                             height="16"
-                             x="470.01428"
-                             y="527.49072"
-                             ry="1.0000296" />
+                             d="M 4 3 C 3.4459836 3 3 3.4459836 3 4 L 3 18 C 3 18.554016 3.4459836 19 4 19 L 18 19 C 18.554016 19 19 18.554016 19 18 L 19 4 C 19 3.4459836 18.554016 3 18 3 L 4 3 z M 14.078125 7.6328125 C 14.229238 7.6328125 14.35714 7.6851951 14.462891 7.7910156 L 15.234375 8.5625 C 15.340126 8.6683206 15.392648 8.796153 15.392578 8.9472656 C 15.392578 9.0984477 15.340126 9.2281638 15.234375 9.3339844 L 11.130859 13.4375 L 10.359375 14.208984 C 10.253554 14.314735 10.125721 14.367188 9.9746094 14.367188 C 9.8234266 14.367188 9.6936414 14.314805 9.5878906 14.208984 L 8.8183594 13.4375 L 6.765625 11.384766 C 6.6598045 11.279015 6.6074219 11.151113 6.6074219 11 C 6.6074219 10.848818 6.6598045 10.721055 6.765625 10.615234 L 7.5371094 9.84375 C 7.6429308 9.7379294 7.7706935 9.6855469 7.921875 9.6855469 C 8.0729883 9.6855469 8.2008204 9.7379294 8.3066406 9.84375 L 9.9746094 11.515625 L 13.693359 7.7910156 C 13.79911 7.6851951 13.926943 7.6328125 14.078125 7.6328125 z "
+                             transform="translate(467.01428,524.49072)"
+                             id="rect4227" />
                           <g
                              style="fill:#2ecc71;fill-opacity:1"
                              inkscape:label="Capa 1"
@@ -6127,14 +6124,7 @@
                            style="fill:#ffffff;fill-opacity:1"
                            transform="matrix(0.7214167,0,0,0.7214167,123.07951,19.201456)"
                            sketch:type="MSLayerGroup"
-                           id="correct8-1">
-                          <path
-                             style="fill:#ffffff;fill-opacity:1"
-                             inkscape:connector-curvature="0"
-                             sketch:type="MSShapeGroup"
-                             id="path4469-7"
-                             d="m 164.58093,20.375202 -6.32465,-6.324653 c -0.86764,-0.868212 -1.92251,-1.302033 -3.16233,-1.302033 -1.24038,0 -2.29525,0.433821 -3.16289,1.302033 L 121.42317,44.605244 107.75039,30.885657 c -0.86821,-0.868213 -1.92251,-1.302034 -3.16233,-1.302034 -1.24038,0 -2.29468,0.433821 -3.1629,1.302034 l -6.324649,6.324652 c -0.868212,0.868213 -1.302033,1.922512 -1.302033,3.162898 0,1.239814 0.433821,2.294684 1.302033,3.162326 l 16.835109,16.835107 6.32522,6.324653 c 0.86764,0.868213 1.92194,1.302034 3.16233,1.302034 1.23981,0 2.29411,-0.434392 3.16233,-1.302034 l 6.32522,-6.324653 33.67021,-33.670214 c 0.86764,-0.868213 1.30204,-1.922512 1.30204,-3.162897 5.7e-4,-1.239815 -0.4344,-2.294114 -1.30204,-3.162327 l 0,0 z" />
-                        </g>
+                           id="correct8-1" />
                       </g>
                     </g>
                   </g>

@@ -563,19 +563,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="-19.206307"
-     inkscape:cy="13.912832"
+     inkscape:cx="-1.8750029"
+     inkscape:cy="13.975332"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-4"
+     inkscape:current-layer="g4346"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -620,7 +620,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -758,14 +758,11 @@
                                    transform="matrix(0.76761933,0,0,0.76761933,156.46876,138.50552)"
                                    id="g4162"
                                    style="stroke:none">
-                                <rect
-                                   ry="1.9999958"
-                                   y="503.798"
-                                   x="390.57144"
-                                   height="39.999969"
-                                   width="36"
-                                   id="rect4319"
-                                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455" />
+                                <path
+                                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
+                                   d="M 4.5996094 3 C 4.15641 3 3.8007812 3.3575818 3.8007812 3.8007812 L 3.8007812 18.199219 C 3.8007812 18.642418 4.15641 19 4.5996094 19 L 17.400391 19 C 17.84359 19 18.199219 18.642418 18.199219 18.199219 L 18.199219 3.8007812 C 18.199219 3.3575818 17.84359 3 17.400391 3 L 4.5996094 3 z M 10.800781 7.1992188 C 11.76119 7.1992188 12.557945 7.4810204 13.191406 8.0429688 C 13.824867 8.6049171 14.140625 9.3962486 14.140625 10.417969 L 14.140625 14.955078 L 12.792969 14.955078 L 12.792969 13.912109 L 12.730469 13.912109 C 12.168528 14.770311 11.346686 15.199219 10.263672 15.199219 C 9.466737 15.199219 8.7973664 14.969537 8.2558594 14.509766 C 7.7245695 14.049994 7.4589844 13.443525 7.4589844 12.6875 C 7.4589844 11.870088 7.7766952 11.231256 8.4101562 10.771484 C 9.0436173 10.301526 9.8241489 10.066406 10.753906 10.066406 C 11.581492 10.066406 12.261679 10.218906 12.792969 10.525391 L 12.792969 10.310547 C 12.792969 9.7588297 12.602643 9.3191343 12.224609 8.9921875 C 11.846576 8.6550095 11.381802 8.4882812 10.830078 8.4882812 C 10.421394 8.4882812 10.048102 8.585175 9.7109375 8.7792969 C 9.3839899 8.9734187 9.1597148 9.2389939 9.0371094 9.5761719 L 7.75 9.0234375 C 7.9236909 8.5738969 8.2664881 8.1612607 8.7773438 7.7832031 C 9.2881994 7.3949594 9.9629779 7.1992187 10.800781 7.1992188 z M 11 11.230469 C 10.315453 11.230469 9.7985537 11.379483 9.4511719 11.675781 C 9.10379 11.97208 8.9296875 12.318322 8.9296875 12.716797 C 8.9296875 13.084623 9.0895195 13.377258 9.40625 13.591797 C 9.7229805 13.806381 10.085456 13.912109 10.494141 13.912109 C 11.076516 13.912109 11.602278 13.698655 12.072266 13.269531 C 12.55247 12.830177 12.792969 12.3133 12.792969 11.720703 C 12.394502 11.393756 11.796935 11.230469 11 11.230469 z "
+                                   transform="matrix(2.4999981,0,0,2.4999981,381.07146,496.29801)"
+                                   id="rect4319" />
                                 <g
                                    transform="translate(-0.71741557,0.01714041)"
                                    inkscape:label="Capa 1"
@@ -839,7 +836,7 @@
            style="fill:#ffffff;fill-opacity:1"
            inkscape:label="Capa 1"
            id="layer1-18"
-           transform="matrix(0.50000001,0,0,0.50000001,333,23.181089)">
+           transform="matrix(0.50000001,0,0,0.50000001,332.79999,23.381113)">
           <g
              style="fill:#ffffff;fill-opacity:1"
              transform="translate(-412.88298,512.00351)"
@@ -935,18 +932,9 @@
                                    transform="matrix(1.3521374,0,0,1.3521374,414.31352,-877.98607)"
                                    id="layer1-71"
                                    inkscape:label="Capa 1">
-                                <text
-                                   xml:space="preserve"
+                                <g
                                    style="font-style:normal;font-weight:normal;font-size:22.66880608px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                                   x="2.3888192"
-                                   y="1050.0892"
-                                   id="text12798"
-                                   sodipodi:linespacing="125%"><tspan
-                                   sodipodi:role="line"
-                                   id="tspan12800"
-                                   x="2.3888192"
-                                   y="1050.0892"
-                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1">a</tspan></text>
+                                   id="text12798" />
                                 </g>
                                 </g>
                                 </g>

@@ -2357,8 +2357,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="-20.029351"
-     inkscape:cy="12.814417"
+     inkscape:cx="-20.87705"
+     inkscape:cy="12.858611"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-13"
      showgrid="true"
@@ -2367,9 +2367,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -2606,11 +2606,10 @@
                      transform="matrix(0.0251118,0,0,-0.0251118,366.74154,529.08232)"
                      id="g3">
                     <path
-                       sodipodi:nodetypes="sssssssss"
-                       d="m -169.86859,-288.15295 870.39778,0 c 30.13725,0 54.39957,21.83612 54.39957,48.9599 l 0,881.27765 c 0,27.12379 -24.26232,48.95965 -54.39957,48.95965 l -870.39778,0 c -30.13752,0 -54.39985,-21.83586 -54.39985,-48.95965 l 0,-881.27765 c 0,-27.12378 24.26233,-48.9599 54.39985,-48.9599 z"
                        style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-                       id="polygon11"
-                       inkscape:connector-curvature="0" />
+                       d="M 3.8886719 3 C 3.3962273 3 3 3.357581 3 3.8007812 L 3 18.199219 C 3 18.642419 3.3962273 19 3.8886719 19 L 18.111328 19 C 18.603768 19 19 18.642419 19 18.199219 L 19 3.8007812 C 19 3.357581 18.603768 3 18.111328 3 L 3.8886719 3 z M 11.001953 5 C 14.312543 5 17.003047 7.68441 16.998047 11 C 16.998047 12.33219 16.564714 13.560507 15.833984 14.554688 C 14.954204 15.752687 13.636344 16.611211 12.115234 16.894531 C 11.757314 16.964571 11.384823 17 11.001953 17 C 10.221503 17 9.4759719 16.850351 8.7949219 16.582031 C 7.3285519 16.000411 6.1410556 14.857566 5.5097656 13.416016 C 5.1819956 12.675376 5.0019531 11.85994 5.0019531 11 C 5.0019531 7.68441 7.6863631 5 11.001953 5 z "
+                       transform="matrix(61.199825,0,0,61.199825,-407.86792,-471.75243)"
+                       id="polygon11" />
                   </g>
                 </g>
                 <g
@@ -2622,12 +2621,6 @@
             </g>
           </g>
         </g>
-        <path
-           style="fill:#ffffff;fill-opacity:1"
-           inkscape:connector-curvature="0"
-           id="path9-9"
-           d="m 335.79545,549.94465 c 0.68105,0.26832 1.42666,0.41755 2.20711,0.41755 0.38287,0 0.75551,-0.0346 1.11343,-0.10464 1.52111,-0.28332 2.83842,-1.14333 3.7182,-2.34133 0.73073,-0.99418 1.16318,-2.22196 1.16318,-3.55415 0.005,-3.31559 -2.68427,-5.99988 -5.99486,-5.99988 -3.31559,0 -5.99988,2.68429 -5.99988,5.99988 0,0.85994 0.17928,1.67517 0.50705,2.41581 0.63129,1.44155 1.8194,2.58488 3.28577,3.1665 z"
-           transform="translate(20.57367,-0.02337836)" />
         <g
            style="font-style:normal;font-weight:normal;font-size:80px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="text4864"

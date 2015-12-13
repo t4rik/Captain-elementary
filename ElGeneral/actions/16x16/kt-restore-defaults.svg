@@ -2,7 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -262,8 +261,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="-14.742323"
-     inkscape:cy="9.3605439"
+     inkscape:cx="8.4939813"
+     inkscape:cy="9.4047381"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -272,9 +271,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:object-nodes="true"
@@ -323,7 +322,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -460,14 +459,11 @@
                                    style="stroke:none"
                                    id="g4162"
                                    transform="matrix(0.76761933,0,0,0.76761933,156.46876,138.50552)">
-                                <rect
+                                <path
                                    style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
-                                   id="rect4319"
-                                   width="36"
-                                   height="39.999969"
-                                   x="390.57144"
-                                   y="503.798"
-                                   ry="1.9999958" />
+                                   d="M 4.5996094 3 C 4.15641 3 3.8007812 3.3575818 3.8007812 3.8007812 L 3.8007812 18.199219 C 3.8007812 18.642418 4.15641 19 4.5996094 19 L 17.400391 19 C 17.84359 19 18.199219 18.642418 18.199219 18.199219 L 18.199219 3.8007812 C 18.199219 3.3575818 17.84359 3 17.400391 3 L 4.5996094 3 z M 12.361328 7.8671875 C 12.51254 7.8671875 12.663862 7.9240446 12.779297 8.0390625 C 13.010184 8.2691157 13.010184 8.6427237 12.779297 8.8730469 L 10.207031 11.199219 L 12.779297 13.527344 C 13.010184 13.757667 13.010184 14.131014 12.779297 14.361328 C 12.548428 14.591651 12.174229 14.591651 11.943359 14.361328 L 8.9511719 11.654297 C 8.8264187 11.529693 8.7729192 11.362384 8.7832031 11.199219 C 8.7728929 11.036332 8.8265149 10.870689 8.9511719 10.746094 L 11.943359 8.0390625 C 12.058794 7.9240446 12.210116 7.8671875 12.361328 7.8671875 z "
+                                   transform="matrix(2.4999981,0,0,2.4999981,381.07146,496.29802)"
+                                   id="rect4319" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:1;stroke:none"
                                    id="layer1-7-4-3"
@@ -539,15 +535,7 @@
                           <g
                              transform="matrix(0.7863692,0,0,0.78394543,93.525529,112.35451)"
                              id="g4187-8-3"
-                             style="fill:#4d4d4d;fill-opacity:1">
-                            <path
-                               sodipodi:nodetypes="ccccscccccc"
-                               style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:0.8"
-                               sketch:type="MSShapeGroup"
-                               id="Download"
-                               d="m 447.37395,543.68901 c -0.26425,0.26411 -0.26425,0.69259 0,0.95701 l 2.94323,2.67159 -2.94323,2.6716 c -0.26425,0.26442 -0.26425,0.6926 0,0.95701 0.26423,0.26442 0.69225,0.26442 0.95648,0 l 3.42401,-3.10772 c 0.14278,-0.14305 0.20574,-0.33357 0.19397,-0.52089 0.0118,-0.187 -0.0513,-0.37783 -0.19397,-0.52087 l -3.42401,-3.10773 c -0.26423,-0.26409 -0.69225,-0.26409 -0.95648,0 z"
-                               inkscape:connector-curvature="0" />
-                          </g>
+                             style="fill:#4d4d4d;fill-opacity:1" />
                         </g>
                       </g>
                     </g>

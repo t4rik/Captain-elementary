@@ -743,17 +743,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.919596"
-     inkscape:cx="-24.697065"
-     inkscape:cy="13.109368"
+     inkscape:cx="-31.948122"
+     inkscape:cy="13.172503"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -802,7 +802,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -871,11 +871,10 @@
                                    transform="matrix(2.6108213,0,0,2.6108213,-768.22476,390.2786)"
                                    id="layer1-7-5-6-1">
                                 <path
-                                   sodipodi:nodetypes="scccssccccs"
-                                   d="m 43.886832,-36.6986 c -1.108,0 -1.999909,0.892 -1.999909,2 l 0,81.609112 110.999917,0.239943 0,-70.041215 c 0,-1.108 -0.892,-2.000005 -2,-2.000005 l -60.173559,0 c -2.038523,0.180281 -2.301118,-0.09046 -3.308458,-1.435069 -1.428506,-1.911776 -3.585547,-7.064534 -4.99187,-8.929393 -1.128792,-1.632735 -1.311871,-1.443378 -3.183935,-1.443378 z"
-                                   inkscape:connector-curvature="0"
-                                   id="rect8678-4-5-5-1-2"
-                                   style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.16012144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.90366971;marker:none;enable-background:accumulate" />
+                                   style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.16012144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.90366971;marker:none;enable-background:accumulate"
+                                   d="M 0.79101562 3.0019531 C 0.57960501 3.0019531 0.41015625 3.1714019 0.41015625 3.3828125 L 0.41015625 18.955078 L 21.589844 19 L 21.589844 5.6367188 C 21.589844 5.4253081 21.418442 5.2539063 21.207031 5.2539062 L 9.7265625 5.2539062 C 9.3376046 5.2883045 9.2879074 5.2370253 9.0957031 4.9804688 C 8.8231388 4.6156946 8.4109099 3.6331659 8.1425781 3.2773438 C 7.9272003 2.9658117 7.8923532 3.0019531 7.5351562 3.0019531 L 0.79101562 3.0019531 z M 10.984375 9.5 C 11.14117 9.4994331 11.297951 9.5586007 11.417969 9.6777344 L 15.193359 13.425781 C 15.433608 13.664183 15.433832 14.050999 15.195312 14.291016 C 14.957006 14.531051 14.570094 14.533228 14.330078 14.294922 L 10.990234 10.978516 L 7.6738281 14.318359 C 7.4354253 14.558395 7.0466761 14.560572 6.8066406 14.322266 C 6.5665083 14.08396 6.566285 13.695211 6.8046875 13.455078 L 10.550781 9.6816406 C 10.669992 9.5616227 10.827658 9.5005666 10.984375 9.5 z "
+                                   transform="matrix(5.2409858,0,0,5.2409858,39.736038,-52.428275)"
+                                   id="rect8678-4-5-5-1-2" />
                                 </g>
                               </g>
                             </g>
@@ -1058,13 +1057,7 @@
           <g
              style="fill:#ffffff;fill-opacity:1"
              id="g3"
-             transform="matrix(1.1827033e-4,0.03271224,-0.03271224,1.1827033e-4,18.268695,1034.3501)">
-            <path
-               style="fill:#ffffff;fill-opacity:1"
-               d="M 345.441,248.292 151.154,442.573 c -12.359,12.365 -32.397,12.365 -44.75,0 -12.354,-12.354 -12.354,-32.391 0,-44.744 L 278.318,225.92 106.409,54.017 c -12.354,-12.359 -12.354,-32.394 0,-44.748 12.354,-12.359 32.391,-12.359 44.75,0 l 194.287,194.284 c 6.177,6.18 9.262,14.271 9.262,22.366 0,8.099 -3.091,16.196 -9.267,22.373 z"
-               id="path5"
-               inkscape:connector-curvature="0" />
-          </g>
+             transform="matrix(1.1827033e-4,0.03271224,-0.03271224,1.1827033e-4,18.268695,1034.3501)" />
         </g>
       </g>
     </g>

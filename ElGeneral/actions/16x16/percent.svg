@@ -14,67 +14,48 @@
    id="svg3869"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="media-seek-backward.svg">
+   sodipodi:docname="percent.svg">
   <defs
      id="defs3871">
     <linearGradient
-       id="linearGradient4066">
-      <stop
-         offset="0"
-         style="stop-color:#dbc9ee;stop-opacity:1"
-         id="stop4068" />
-      <stop
-         offset="1"
-         style="stop-color:#faf7fd;stop-opacity:1"
-         id="stop4070" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3843-5">
-      <stop
-         id="stop3845-0"
-         style="stop-color:#5a2c8b;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3847-4"
-         style="stop-color:#9d59cf;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4160">
-      <rect
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1"
-         id="rect4162"
-         width="1"
-         height="1"
-         x="7"
-         y="1023.3622" />
-    </clipPath>
-    <linearGradient
        id="linearGradient4290-48">
       <stop
-         style="stop-color:#a5a5a5;stop-opacity:1;"
+         id="stop4292-0"
          offset="0"
-         id="stop4292-0" />
+         style="stop-color:#a5a5a5;stop-opacity:1;" />
       <stop
-         style="stop-color:#f5f2f5;stop-opacity:1;"
+         id="stop4294-0"
          offset="1"
-         id="stop4294-0" />
+         style="stop-color:#f5f2f5;stop-opacity:1;" />
     </linearGradient>
     <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 12 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="24 : 12 : 1"
+       id="perspective4146-9"
        inkscape:persp3d-origin="12 : 8 : 1"
-       id="perspective4146-9" />
+       inkscape:vp_z="24 : 12 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 12 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4146"
+       inkscape:persp3d-origin="12 : 8 : 1"
+       inkscape:vp_z="24 : 12 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 12 : 1"
+       sodipodi:type="inkscape:persp3d" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 12 : 1"
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_z="24 : 12 : 1"
        inkscape:persp3d-origin="12 : 8 : 1"
-       id="perspective4146" />
+       id="perspective4146-9-1" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 12 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="24 : 12 : 1"
+       inkscape:persp3d-origin="12 : 8 : 1"
+       id="perspective4146-96" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -83,20 +64,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="-20.87705"
-     inkscape:cy="10.10731"
+     inkscape:zoom="15.999999"
+     inkscape:cx="14.78455"
+     inkscape:cy="15.386216"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-7"
+     inkscape:current-layer="layer1"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="633"
+     inkscape:window-height="630"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="36"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -145,7 +126,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -155,28 +136,15 @@
      id="layer1"
      transform="translate(-326,-534.3622)">
     <g
-       transform="translate(327,-497)"
-       id="layer1-7"
-       inkscape:label="Capa 1">
-      <g
-         transform="matrix(0.89608874,0,0,0.89608874,0.05065862,109.15387)"
-         id="layer1-5"
-         inkscape:label="Capa 1">
-        <g
-           transform="matrix(1.1159609,0,0,1.1159609,-1.1724939,-120.69549)"
-           id="g4151">
-          <path
-             style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1"
-             d="M 11 3 C 6.568 3 3 6.568 3 11 C 3 15.432 6.568 19 11 19 C 15.432 19 19 15.432 19 11 C 19 6.568 15.432 3 11 3 z M 10.371094 8.359375 L 10.371094 11.046875 L 13.955078 8.359375 L 13.955078 13.736328 L 10.371094 11.046875 L 10.371094 13.736328 L 6.7871094 11.046875 L 10.371094 8.359375 z "
-             transform="translate(-3.8491294e-8,1030.3622)"
-             id="rect3356-1" />
-        </g>
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           transform="translate(-0.5989962,0.11513315)"
-           inkscape:label="Capa 1"
-           id="layer1-0" />
-      </g>
+       style="font-style:normal;font-weight:normal;font-size:180px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4152"
+       transform="matrix(0.12414649,0,0,0.12414649,281.34448,481.3646)">
+      <path
+         d="m 413.3852,578.50067 -10.26,-6.66 80.1,-119.34 10.08,6.84 z m 19.8,-75.06 c -6,6.12 -13.2,9.18 -21.6,9.18 -8.4,0 -15.66,-3.06 -21.78,-9.18 -6,-6.12 -9,-13.32 -9,-21.6 0,-8.28 3,-15.48 9,-21.6 6.12,-6.12 13.38,-9.18 21.78,-9.18 8.4,0 15.6,3.06 21.6,9.18 6.12,6.12 9.18,13.32 9.18,21.6 0,8.28 -3.06,15.48 -9.18,21.6 z m 73.44,67.32 c -6,6.12 -13.2,9.18 -21.6,9.18 -8.4,0 -15.66,-3.06 -21.78,-9.18 -6,-6.12 -9,-13.32 -9,-21.6 0,-8.28 3,-15.48 9,-21.6 6.12,-6.12 13.38,-9.18 21.78,-9.18 8.4,0 15.6,3.06 21.6,9.18 6.12,6.12 9.18,13.32 9.18,21.6 0,8.28 -3.06,15.48 -9.18,21.6 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#4d4d4d;fill-opacity:1"
+         id="path4157"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccscscscsccscscscsc" />
     </g>
   </g>
 </svg>

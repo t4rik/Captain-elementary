@@ -71,8 +71,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="-0.33125966"
-     inkscape:cy="9.3543705"
+     inkscape:cx="-12.48751"
+     inkscape:cy="9.3856205"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -81,9 +81,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -132,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -148,14 +148,11 @@
          inkscape:label="Capa 1"
          id="layer1-4"
          transform="translate(1,-0.99998262)">
-        <rect
+        <path
            style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19848719;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect4144"
-           width="16"
-           height="16"
-           x="329"
-           y="537.36218"
-           ry="1.0125613" />
+           d="M 4.0117188 3 C 3.4507598 3 3 3.4507598 3 4.0117188 L 3 17.988281 C 3 18.54924 3.4507598 19 4.0117188 19 L 17.988281 19 C 18.54924 19 19 18.54924 19 17.988281 L 19 4.0117188 C 19 3.4507598 18.54924 3 17.988281 3 L 4.0117188 3 z M 11 6.2304688 C 11.12016 6.2304688 11.218872 6.314245 11.294922 6.4785156 L 12.646484 9.2128906 L 15.664062 9.6503906 C 15.888598 9.6864608 16 9.7794704 16 9.9277344 C 16 10.015881 15.948051 10.11069 15.84375 10.214844 L 13.662109 12.34375 L 14.179688 15.347656 C 14.183744 15.37576 14.185547 15.416673 14.185547 15.46875 C 14.185547 15.552914 14.165018 15.623515 14.123047 15.681641 C 14.081002 15.73984 14.019781 15.769531 13.939453 15.769531 C 13.863477 15.769531 13.783456 15.745359 13.699219 15.697266 L 11 14.277344 L 8.3007812 15.697266 C 8.2126343 15.745433 8.1326873 15.769531 8.0605469 15.769531 C 7.9763831 15.769531 7.9131388 15.739766 7.8710938 15.681641 C 7.8290487 15.623441 7.8085938 15.552914 7.8085938 15.46875 C 7.8085937 15.444777 7.8122723 15.40379 7.8203125 15.347656 L 8.3378906 12.34375 L 6.1503906 10.214844 C 6.0502202 10.106707 6 10.011898 6 9.9277344 C 6 9.7794704 6.1116237 9.6864608 6.3359375 9.6503906 L 9.3535156 9.2128906 L 10.705078 6.4785156 C 10.781202 6.314245 10.87984 6.2304688 11 6.2304688 z "
+           transform="translate(326,534.36218)"
+           id="rect4144" />
       </g>
       <g
          style="fill:#ffffff;fill-opacity:1"
@@ -166,14 +163,7 @@
            id="star60"
            sketch:type="MSLayerGroup"
            transform="matrix(0.17703162,0,0,0.17703162,388.53319,520.29086)"
-           style="fill:#ffffff;fill-opacity:1">
-          <path
-             d="m 135.785,50.457 c 0,-2.01 -1.52,-3.259 -4.564,-3.748 L 90.324,40.762 71.993,3.692 c -1.031,-2.227 -2.363,-3.34 -3.992,-3.34 -1.629,0 -2.96,1.113 -3.992,3.34 L 45.677,40.762 4.778,46.709 c -3.041,0.489 -4.562,1.738 -4.562,3.748 0,1.141 0.679,2.445 2.037,3.911 l 29.656,28.841 -7.006,40.736 c -0.109,0.761 -0.163,1.305 -0.163,1.63 0,1.141 0.285,2.104 0.855,2.893 0.57,0.788 1.425,1.181 2.566,1.181 0.978,0 2.064,-0.324 3.259,-0.977 L 68,109.443 l 36.583,19.229 c 1.142,0.652 2.228,0.977 3.258,0.977 1.089,0 1.916,-0.392 2.486,-1.181 0.569,-0.788 0.854,-1.752 0.854,-2.893 0,-0.706 -0.027,-1.249 -0.082,-1.63 l -7.007,-40.736 29.574,-28.841 c 1.414,-1.412 2.119,-2.716 2.119,-3.911 l 0,0 z"
-             id="path2034"
-             sketch:type="MSShapeGroup"
-             inkscape:connector-curvature="0"
-             style="fill:#ffffff;fill-opacity:1" />
-        </g>
+           style="fill:#ffffff;fill-opacity:1" />
       </g>
     </g>
   </g>

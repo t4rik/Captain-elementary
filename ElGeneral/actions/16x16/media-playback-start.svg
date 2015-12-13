@@ -84,8 +84,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="-15.044884"
-     inkscape:cy="9.4493787"
+     inkscape:cx="-20.87705"
+     inkscape:cy="9.4935729"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-4"
      showgrid="true"
@@ -94,9 +94,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -145,7 +145,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -158,12 +158,6 @@
        transform="matrix(1.375,0,0,1.375,322.875,-887.51083)"
        id="layer1-4"
        inkscape:label="Capa 1">
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path3357"
-         d="m 9.3636364,1044.3622 3.9999986,-3 -3.9999986,-3 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <g
          transform="matrix(0.6517009,0,0,0.6517009,3.0368427,363.39251)"
          id="layer1-3"
@@ -174,24 +168,15 @@
            id="g4151">
           <path
              style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1"
-             d="m 11,3 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z"
-             transform="translate(0,1030.3622)"
-             id="rect3356-7"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="sssss" />
+             d="M 11 3 C 6.568 3 3 6.568 3 11 C 3 15.432 6.568 19 11 19 C 15.432 19 19 15.432 19 11 C 19 6.568 15.432 3 11 3 z M 8.7910156 7.7675781 L 13.890625 11.177734 L 8.7910156 14.585938 L 8.7910156 7.7675781 z "
+             transform="translate(-1.3392253e-7,1030.3622)"
+             id="rect3356-7" />
         </g>
         <g
            style="fill:#ffffff;fill-opacity:1"
            transform="matrix(1.4226132,0,0,1.2679986,-23.052987,-280.9677)"
            inkscape:label="Capa 1"
-           id="layer1-2">
-          <path
-             style="fill:#ffffff;fill-opacity:1;stroke:none"
-             d="m 22.276239,1046.0527 4,-3 -4,-3 z"
-             id="path3357-1"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="cccc" />
-        </g>
+           id="layer1-2" />
       </g>
     </g>
   </g>

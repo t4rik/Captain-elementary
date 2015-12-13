@@ -30,7 +30,7 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="-7.7796611"
+     inkscape:cx="-8.7023597"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="33"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -124,7 +124,7 @@
     <g
        style="fill:#323232;fill-opacity:0.4"
        id="g3-4-8"
-       transform="matrix(0.02451023,0,0,0.02451023,-4.6569066,1.7149281)">
+       transform="matrix(0.02680931,0,0,0.02680931,-5.8271862,1.0239998)">
       <g
          style="fill:#323232;fill-opacity:0.4"
          id="Wi-Fi-38">

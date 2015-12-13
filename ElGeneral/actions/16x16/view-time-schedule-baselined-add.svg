@@ -5145,19 +5145,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="10.487743"
-     inkscape:cy="12.105025"
+     inkscape:cx="-1.6685078"
+     inkscape:cy="12.136275"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-3"
+     inkscape:current-layer="layer1"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -5252,14 +5252,11 @@
                      transform="translate(-94.71429,7.57146)"
                      id="layer1-5-6"
                      inkscape:label="Capa 1">
-                    <rect
-                       ry="1.0000296"
-                       y="527.49072"
-                       x="470.01428"
-                       height="16"
-                       width="16"
-                       id="rect4227"
-                       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+                    <path
+                       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                       d="M 4 3 C 3.4459836 3 3 3.4459836 3 4 L 3 18 C 3 18.554016 3.4459836 19 4 19 L 18 19 C 18.554016 19 19 18.554016 19 18 L 19 4 C 19 3.4459836 18.554016 3 18 3 L 4 3 z M 10.199219 7 L 11.800781 7 L 11.800781 10.199219 L 15 10.199219 L 15 11.800781 L 11.800781 11.800781 L 11.800781 15 L 10.199219 15 L 10.199219 11.800781 L 7 11.800781 L 7 10.199219 L 10.199219 10.199219 L 10.199219 7 z "
+                       transform="translate(467.01428,524.49072)"
+                       id="rect4227" />
                     <g
                        transform="matrix(0.62500001,0,0,0.62500001,267.38928,194.63936)"
                        id="layer1-4-5"
@@ -5293,11 +5290,6 @@
              y="527.72821"
              ry="3.1546238e-05" />
         </g>
-        <path
-           inkscape:connector-curvature="0"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-linecap:round"
-           d="m 470.96431,531.04056 0,2.99988 -2.99988,0 0,1.49995 2.99988,0 0,2.99988 1.49995,0 0,-2.99988 2.99988,0 0,-1.49995 -2.99988,0 0,-2.99988 -1.49995,0 z"
-           id="rect4239" />
       </g>
       <g
          transform="matrix(0.61538461,0,0,0.61538461,142.30769,207.12283)"

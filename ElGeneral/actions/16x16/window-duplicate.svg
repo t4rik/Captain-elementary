@@ -817,8 +817,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="-6.1907755"
-     inkscape:cy="8.8088212"
+     inkscape:cx="-1.8750029"
+     inkscape:cy="8.8400712"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-461"
      showgrid="true"
@@ -827,9 +827,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:object-nodes="true"
@@ -1050,11 +1050,10 @@
                          sketch:type="MSLayerGroup"
                          id="remove11">
                         <path
-                           inkscape:connector-curvature="0"
-                           id="path1028"
                            style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1"
-                           d="m -112.87299,-46.752759 285.98364,0 c 6.05598,0 10.93145,4.875466 10.93145,10.931453 l 0,210.430706 c 0,6.05605 -4.87547,10.93145 -10.93145,10.93145 l -285.98364,0 c -6.05606,0 -10.93146,-4.8754 -10.93146,-10.93145 l 0,-210.430706 c 0,-6.055987 4.8754,-10.931453 10.93146,-10.931453 z"
-                           sodipodi:nodetypes="sssssssss" />
+                           d="M 1.1503906 3 C 0.73325921 3 0.3984375 3.3367799 0.3984375 3.7539062 L 0.3984375 18.246094 C 0.3984375 18.663224 0.73325921 19 1.1503906 19 L 20.849609 19 C 21.266735 19 21.601562 18.663224 21.601562 18.246094 L 21.601562 3.7539062 C 21.601563 3.3367799 21.266735 3 20.849609 3 L 1.1503906 3 z M 9.0214844 9 L 20.101562 9 C 20.336196 9 20.525391 9.1891945 20.525391 9.4238281 L 20.525391 17.576172 C 20.525391 17.810808 20.336196 18 20.101562 18 L 9.0214844 18 C 8.7868479 18 8.5976562 17.810808 8.5976562 17.576172 L 8.5976562 9.4238281 C 8.5976562 9.1891945 8.7868479 9 9.0214844 9 z "
+                           transform="matrix(14.51835,0,0,14.51835,-129.58303,-90.307808)"
+                           id="path1028" />
                       </g>
                     </g>
                   </g>
@@ -1218,14 +1217,7 @@
                          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
                          transform="matrix(0.20663505,0,0,0.20663505,416.2249,531.51293)"
                          sketch:type="MSLayerGroup"
-                         id="remove11-2">
-                        <path
-                           inkscape:connector-curvature="0"
-                           id="path1028-8"
-                           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-                           d="m -112.87299,-46.752759 285.98364,0 c 6.05598,0 10.93145,4.875466 10.93145,10.931453 l 0,210.430706 c 0,6.05605 -4.87547,10.93145 -10.93145,10.93145 l -285.98364,0 c -6.05606,0 -10.93146,-4.8754 -10.93146,-10.93145 l 0,-210.430706 c 0,-6.055987 4.8754,-10.931453 10.93146,-10.931453 z"
-                           sodipodi:nodetypes="sssssssss" />
-                      </g>
+                         id="remove11-2" />
                     </g>
                   </g>
                 </g>
