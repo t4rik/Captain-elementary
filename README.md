@@ -1,2 +1,1 @@
-Captain icons for elementary OS.
-
+"Captain" icon theme for elementary OS and Ubuntu based desktops
