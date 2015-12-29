@@ -1,6 +1,7 @@
 [Icon Theme]
-Name=El General
-Comment=Because "El Capitan" is eating Apple's. An OS X inspired icon theme for Gnome
+Name=Captain
+Comment=Because "Captain" is eating Apple's. An OS X inspired icon theme for elementary OS
+Inherits=elementary,Adwaita,gnome,hicolor
 
 Directories=actions/symbolic,actions/16x16,actions/scalable,animations/22x22,apps/scalable,apps/16x16,apps/24x24,apps/32x32,apps/48x48,apps/64x64,apps/96x96,apps/192x192,apps/symbolic,categories/scalable,categories/symbolic,devices/symbolic,devices/scalable,emblems/scalable,emblems/symbolic,emotes/scalable,mimetypes/scalable,mimetypes/symbolic,places/16x16,panel/16,panel/24,places/scalable,status/scalable,status/symbolic,status
 
